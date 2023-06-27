@@ -6,9 +6,8 @@ identifiers:
   - type: url
     value: "https://github.com/OutdoorRD/VisitorsCount"
     description: Latest version
-license: BSD 3-Clause License
+license: BSD-3-Clause
 message: If you use this software, please cite the journal article.
-repository-code: "https://github.com/zyrikby/FSquaDRA"
 title: VisitorsCount
 preferred-citation:
   type: article
