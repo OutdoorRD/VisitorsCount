@@ -1,0 +1,31 @@
+authors:
+  - family-names: Wood
+    given-names: Spencer A
+cff-version: 1.2.0
+identifiers:
+  - type: url
+    value: "https://github.com/OutdoorRD/VisitorsCount"
+    description: Latest version
+license: BSD 3-Clause License
+message: If you use this software, please cite the journal article.
+repository-code: "https://github.com/zyrikby/FSquaDRA"
+title: VisitorsCount
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Lia
+    given-names: Emmi H.
+  - family-names: Derrien
+    given-names: Monika M.
+  - family-names: Winder
+    given-names: Sama G.
+  - family-names: White
+    given-names: Eric M.
+  - family-names: Wood
+    given-names: Spencer A.
+  title: "A text-messaging chatbot to support outdoor recreation monitoring through community science"
+  journal: Digital Geography and Society
+  year: 2023
+  volume: 5
+  start: 100059
+  doi: 10.1016/j.diggeo.2023.100059
